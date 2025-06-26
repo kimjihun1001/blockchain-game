@@ -1,0 +1,11 @@
+{
+  "name": "Game Character #1",
+  "description": "구글 드라이브 이미지를 사용하는 게임 캐릭터 NFT",
+  "image": "https://drive.google.com/uc?export=view&id=1ZSjDrVJH8zRKHyEH5wem6Nm-nqQAdb7c",
+  "attributes": [
+    { "trait_type": "Strength", "value": 80 },
+    { "trait_type": "Agility", "value": 65 },
+    { "trait_type": "Intelligence", "value": 70 },
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}
